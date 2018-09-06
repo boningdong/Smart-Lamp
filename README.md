@@ -1,4 +1,4 @@
-# Wireless-Charing-Smart-Lamp-Project
+# Wireless-Charging-Smart-Lamp-Project
 This project is a Wireless Charging Smart Lamp.
 
 ## Purpose
