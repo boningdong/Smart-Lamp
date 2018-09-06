@@ -18,7 +18,7 @@ I was in charge of the hardware, embedded software and industrial design respect
 - Design: I used Rhino to design the case and exported to STL format for 3D printing.
 
 ## Usage
-- Hardware: Use altium to open the PrjPcb file to see the whole project. After open the project, you need to import the Design Used Library.
+- Hardware: Use altium to open the PrjPcb file to see the whole project. After open the project, you need to import the Design Used Library. Bedside Lamp V3.0.pdf includes the schematic and the screenshot of the PCB design.
 - Firmware: The firmware project is located under Firmware/ folder.
 - Case: To print the case, you need to open the 3dm file under 3D Models/ folder and export everything into STL.
 
