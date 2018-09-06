@@ -1,1 +1,6 @@
-/History
+**/History
+/
+**/.settings/
+**/.launches/
+**/Release/
+**/Debug/
