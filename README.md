@@ -21,3 +21,9 @@ I was in charge of the hardware, embedded software and industrial design respect
 - Hardware: Use altium to open the PrjPcb file to see the whole project. After open the project, you need to import the Design Used Library.
 - Firmware: The firmware project is located under Firmware/ folder.
 - Case: To print the case, you need to open the 3dm file under 3D Models/ folder and export everything into STL.
+
+## Photos
+![Circuits Photos](https://github.com/boningdong/Wireless-Charing-Smart-Lamp-Project/blob/master/Photos/All%20Circuits.jpg)
+![Rhino Deisng](https://github.com/boningdong/Wireless-Charing-Smart-Lamp-Project/blob/master/Photos/Rhino%20Design.jpg)
+![Real Photo](https://github.com/boningdong/Wireless-Charing-Smart-Lamp-Project/blob/master/Photos/Photo.JPG)
+
