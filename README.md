@@ -3,7 +3,7 @@ This project is a Wireless Charging Smart Lamp.
 
 ## Purpose
 This lamp is actually a gift I built for my friends and teachers before I left China.
-I was in charge of the hardware, embedded software and industrial design respectively.
+I was in charge of the hardware, embedded software and industrial design respectively. So this is also a good practice project for me to design a product totally by myself from hardware layer to software layer.
 
 ## Features
 - Light: The lamp supports 65k color space. Users can change color with their smartphone.
