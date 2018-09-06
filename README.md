@@ -13,7 +13,7 @@ I was in charge of the hardware, embedded software and industrial design respect
 - Battery Management: The lamp has a built-in Lithium Ion battery inside. When charging, the battery management circuit will control & alter the charging phase accordingly. The lamp will indicate fully charged state and low battery state to the user. User can stop the indication by simply touch the lamp.
 
 ## Development
-- Hardware: Both the schematic and PCB is designed with Altium Designer.
+- Hardware: Both the schematic and PCB is designed with Altium Designer. To pursue a modular design, I prototyped a BQ51013B wireless charging module and used it on my project.
 - Firmware: I use MSP430 as the controller in this project becasue of its low power consumption and cheap price. So the firmware is programmed with Code Composer Studio provided by Ti.
 - Design: I used Rhino to design the case and exported to STL format for 3D printing.
 
